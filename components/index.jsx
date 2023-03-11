@@ -9,7 +9,7 @@ export { default as HeroBanner } from "./HeroBanner";
 import React from "react";
 
 const index = () => {
-  return <div>index</div>;
+  return <div></div>;
 };
 
 export default index;

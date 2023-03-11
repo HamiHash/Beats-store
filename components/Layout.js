@@ -7,7 +7,8 @@ const Layout = (props) => {
   return (
     <div className="layout">
       <Head>
-        <title>Hamihash</title>
+        <title>Beats by Dre</title>
+        <link rel="shortcut icon" href="/favicon.ico" />
       </Head>
       <header>
         <NavBar />

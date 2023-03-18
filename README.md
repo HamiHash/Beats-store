@@ -2,9 +2,9 @@
 
 # Beats store clone
 
-Hi there, this website is a fictional "Beats by Dre" Headphones store, in which one can add single or multiple products to their card and pay (also fictional), and after successful payment, they will be directed to a success page.
+Hi there, this website is a fictional "Beats by Dre" Headphones store, in which one can add a single or multiple products to their card and fake pay, after successful payment, they will be directed to a success page.
 
-### Build with Next.js, Sanity(), Stripe
+### Build with Next.js, Sanity, Stripe
 
 ### Note:
 
